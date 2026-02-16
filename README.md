@@ -1,3 +1,3 @@
 # Changelogs
-This Repo is used to store glide client changelogs
-## it is not designed to be human readable please go to the github for the client for human readable changelogs
+Este repositório é usado para armazenar os changelogs do Wins Client.
+## Ele não foi projetado para ser legível por humanos. Por favor, acesse o GitHub do cliente para obter changelogs legíveis.
