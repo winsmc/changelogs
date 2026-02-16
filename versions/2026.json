@@ -1,0 +1,152 @@
+{
+  "changelogs": [
+    {
+      "text": "Mod Crosshair: 3 novos estilos",
+      "type": 0
+    },
+    {
+      "text": "Mod Animations: Opção de agachar suave (smooth sneak)",
+      "type": 0
+    },
+    {
+      "text": "Mod Hotbar: Nova opção para usar o tema do cliente",
+      "type": 0
+    },
+    {
+      "text": "Mod Hotbar: Nova configuração de animação ao pegar itens",
+      "type": 0
+    },
+    {
+      "text": "Novo Mod: Gênero feminino, cosmético que transforma seu personagem em feminino",
+      "type": 0
+    },
+    {
+      "text": "Novo Mod: Orelhas de gato",
+      "type": 0
+    },
+    {
+      "text": "Cliente: Adicionado suporte a mais idiomas",
+      "type": 0
+    },
+    {
+      "text": "Cliente: Adicionados sons na interface (UI)",
+      "type": 0
+    },
+    {
+      "text": "Cliente: Adicionados ícones no dock do macOS",
+      "type": 0
+    },
+    {
+      "text": "HUD: Adicionados novos estilos de HUD",
+      "type": 0
+    },
+    {
+      "text": "HUD: Adicionada opção de fundo desfocado",
+      "type": 0
+    },
+    {
+      "text": "HUD: Adicionada opção da fonte Mojangles",
+      "type": 0
+    },
+    {
+      "text": "Menus: O GuiIngameMenu agora usa o estilo Wins",
+      "type": 0
+    },
+    {
+      "text": "Cosméticos: Adicionadas várias capas novas",
+      "type": 0
+    },
+    {
+      "text": "Cosméticos: Capas personalizadas melhoradas",
+      "type": 0
+    },
+    {
+      "text": "Menu de Mods: Mais de 10 novos temas",
+      "type": 0
+    },
+    {
+      "text": "Menu de Mods: Nova tela inicial",
+      "type": 0
+    },
+    {
+      "text": "Menu de Mods: Novos minigames para jogar no cliente enquanto você espera as partidas iniciarem (bird e clickyCat)",
+      "type": 0
+    },
+    {
+      "text": "Menu de Mods: Botões de voltar em mais locais",
+      "type": 1
+    },
+    {
+      "text": "Menu de Mods: Design do menu de mods aprimorado",
+      "type": 1
+    },
+    {
+      "text": "Menu de Mods: A busca agora inclui apelidos comuns dos mods",
+      "type": 1
+    },
+    {
+      "text": "Menu de Mods: Agora é possível digitar para pesquisar sem precisar clicar na barra de busca",
+      "type": 1
+    },
+    {
+      "text": "Menu de Mods: Agora é possível usar as setas do teclado para rolar para cima e para baixo",
+      "type": 1
+    },
+    {
+      "text": "Menu de Mods: Os módulos agora avisam quando podem resultar em banimento",
+      "type": 1
+    },
+    {
+      "text": "Cliente: Agora é possível clicar fora dos limites de algumas GUIs para fechá-las",
+      "type": 1
+    },
+    {
+      "text": "Cliente: Menu de configuração alterado",
+      "type": 1
+    },
+    {
+      "text": "Cliente: O WinsClient agora verifica automaticamente por atualizações",
+      "type": 1
+    },
+    {
+      "text": "Cliente: Rebranding do cliente para Wins e alteração das fontes",
+      "type": 1
+    },
+    {
+      "text": "Cliente: WinsClient agora é compatível com Linux e macOS",
+      "type": 1
+    },
+    {
+      "text": "Editor de HUD: Agora é possível usar a tecla Shift para desativar o encaixe, permitindo movimentos e escalas mais precisas, além de remover mods pressionando Backspace",
+      "type": 1
+    },
+    {
+      "text": "Editor de HUD: Adicionadas dicas úteis (tooltips)",
+      "type": 1
+    },
+    {
+      "text": "Cosméticos: As capas agora são salvas ao fechar o jogo",
+      "type": 1
+    },
+    {
+      "text": "Mods: Navegador removido por impactar o desempenho",
+      "type": 2
+    },
+    {
+      "text": "Mods: ViaVersion removido por impactar o desempenho",
+      "type": 2
+    },
+    {
+      "text": "Cliente: Reprodutor de música removido por impactar o desempenho",
+      "type": 2
+    },
+    {
+      "text": "Cliente: API Soar removida e substituída por recursos remotos",
+      "type": 2
+    },
+    {
+      "text": "Cliente: Soar Premium removido, agora todos os recursos são gratuitos",
+      "type": 2
+    }
+  ]
+}
